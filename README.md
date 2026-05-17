@@ -9,12 +9,16 @@ Before transitioning into robotics, I spent over 7 years architecting enterprise
 ### Featured Projects
 
 <a href="PO-RRT">
-  <img src="https://github.com/K-batonisashvili/PO-RRT-Pareto-Optimal-Multi-Objective-Path-Planning/blob/main/tests/5-14-2026/porrt_generation.gif" width="250" align="right" alt="PO-RRT GIF">
+  <img src="https://github.com/K-batonisashvili/PO-RRT-Pareto-Optimal-Multi-Objective-Path-Planning/blob/main/tests/5-14-2026/porrt_generation.gif" width="400" align="right" alt="PO-RRT GIF">
 </a> 
 
 * **[PO-RRT Autonomous Path Planning](https://github.com/K-batonisashvili/PO-RRT-Pareto-Optimal-Multi-Objective-Path-Planning)**
   * Published research project on multi-objective Pareto-Optimal path planning algorithm called PO-RRT*.
   * **Tech stack:** Python, Algorithms, Path-Planning, Safety, Autonomous Agents, Optimization.
+
+<br>
+<br>
+
 
 * **[Zero-Touch Enterprise Automation Toolkit](https://github.com/K-batonisashvili/Enterprise-IT-Automation-Scripting)**
   * A suite of production-ready PowerShell scripts which were implemented to completely overhaul Microsoft AutoPilot profiles and to provide end user self-service management tools.
