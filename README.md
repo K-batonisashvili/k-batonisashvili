@@ -16,10 +16,6 @@ Before transitioning into robotics, I spent over 7 years architecting enterprise
   * Published research project on multi-objective Pareto-Optimal path planning algorithm called PO-RRT*.
   * **Tech stack:** Python, Algorithms, Path-Planning, Safety, Autonomous Agents, Optimization.
 
-<br>
-<br>
-
-
 * **[Zero-Touch Enterprise Automation Toolkit](https://github.com/K-batonisashvili/Enterprise-IT-Automation-Scripting)**
   * A suite of production-ready PowerShell scripts which were implemented to completely overhaul Microsoft AutoPilot profiles and to provide end user self-service management tools.
   * **Tech stack:** PowerShell, Microsoft Graph API, Azure/Entra ID, Automation.
@@ -27,6 +23,10 @@ Before transitioning into robotics, I spent over 7 years architecting enterprise
 * **[ESP32 IoT Smart Matrix](https://github.com/K-batonisashvili/ESP32-IoT-Smart-Matrix)**
   * An embedded hardware project integrating an ESP32 microcontroller with a custom LED matrix to display real-time data, showcasing hardware-software integration.
   * **Tech stack:** C++, YAML, Microcontrollers, Embedded Systems, IoT.
+
+<a href="ESP32-Matrix">
+  <img src="https://github.com/K-batonisashvili/ESP32-IoT-Smart-Matrix/blob/main/Smart-Home-Display/esphome.gif" width="400" alt="ESP32-Matrix">
+</a> 
 
 ---
 
