@@ -9,9 +9,11 @@ Before transitioning into robotics, I spent over 7 years architecting enterprise
 ### Featured Projects
 
 * **[PO-RRT Autonomous Path Planning](https://github.com/K-batonisashvili/PO-RRT-Pareto-Optimal-Multi-Objective-Path-Planning)**
+
 <a href="PO-RRT">
   <img src="![link-to-your-raw-gif-url.gif](https://github.com/K-batonisashvili/PO-RRT-Pareto-Optimal-Multi-Objective-Path-Planning/blob/main/tests/5-14-2026/porrt_generation.gif)" width="250" align="right" alt="PO-RRT Navigation GIF">
 </a>
+
   * Published research project on multi-objective Pareto-Optimal path planning algorithm called PO-RRT*.
   * **Tech stack:** Python, Algorithms, Path-Planning, Safety, Autonomous Agents, Optimization.
 
