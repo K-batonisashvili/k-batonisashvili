@@ -9,8 +9,8 @@ Before transitioning into robotics, I spent over 7 years architecting enterprise
 ### Featured Projects
 
 <a href="PO-RRT">
-  <img src="https://github.com/K-batonisashvili/PO-RRT-Pareto-Optimal-Multi-Objective-Path-Planning/blob/main/tests/5-14-2026/porrt_generation.gif" width="250" align="right" alt="PO-RRT Navigation GIF">
-</a>
+  <img src="https://github.com/K-batonisashvili/PO-RRT-Pareto-Optimal-Multi-Objective-Path-Planning/blob/main/tests/5-14-2026/porrt_generation.gif" width="250" align="right" alt="PO-RRT GIF">
+</a> 
 
 * **[PO-RRT Autonomous Path Planning](https://github.com/K-batonisashvili/PO-RRT-Pareto-Optimal-Multi-Objective-Path-Planning)**
   * Published research project on multi-objective Pareto-Optimal path planning algorithm called PO-RRT*.
@@ -27,7 +27,16 @@ Before transitioning into robotics, I spent over 7 years architecting enterprise
 ---
 
 ### Currently Tinkering With
-* **Imitation Learning in CARLA:** Training autonomous vehicle models to navigate simulated urban environments using computer vision and machine learning frameworks. 
+* **Imitation Learning in CARLA:** Training autonomous vehicle models to navigate simulated and physical urban environments using computer vision and machine learning frameworks. 
+
+<a href="Carla-Imitation-Learning">
+  <img src="https://github.com/K-batonisashvili/Machine-Learning-Carla-Implementations/blob/main/Imitation-Learning-And-DAGGER/carla.gif" width="250" align="right" alt="Carla Imitation Learning GIF">
+</a> 
+
+<a href="Carla-Imitation-Learning">
+  <img src="https://github.com/K-batonisashvili/Machine-Learning-Imitation-Learning-Models/blob/main/overview.jpg" alt="Carla Imitation Learning GIF">
+</a> 
+
 
 ---
 
