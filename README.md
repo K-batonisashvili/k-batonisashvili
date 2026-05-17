@@ -39,7 +39,7 @@ Before transitioning into robotics, I spent over 7 years architecting enterprise
   <tr>
     <td width="40%" valign="top">
       <a href="https://github.com/K-batonisashvili/Enterprise-IT-Automation-Scripting">
-        <img src="https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=600&auto=format&fit=crop" width="100%" alt="IT Automation">
+        <img src="https://github.com/K-batonisashvili/Enterprise-IT-Automation-Scripting/blob/main/End%20User%20Management%20Scripting/example.png" width="100%" alt="IT Automation">
       </a>
     </td>
     <td width="60%" valign="top">
