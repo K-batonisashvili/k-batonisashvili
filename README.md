@@ -9,7 +9,7 @@ Before transitioning into robotics, I spent over 7 years architecting enterprise
 ### Featured Projects
 
 <a href="PO-RRT">
-  <img src="![link-to-your-raw-gif-url.gif](https://github.com/K-batonisashvili/PO-RRT-Pareto-Optimal-Multi-Objective-Path-Planning/blob/main/tests/5-14-2026/porrt_generation.gif)" width="250" align="right" alt="PO-RRT Navigation GIF">
+  <img src="https://github.com/K-batonisashvili/PO-RRT-Pareto-Optimal-Multi-Objective-Path-Planning/blob/main/tests/5-14-2026/porrt_generation.gif" width="250" align="right" alt="PO-RRT Navigation GIF">
 </a>
 
 * **[PO-RRT Autonomous Path Planning](https://github.com/K-batonisashvili/PO-RRT-Pareto-Optimal-Multi-Objective-Path-Planning)**
