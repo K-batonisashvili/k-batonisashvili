@@ -28,15 +28,15 @@ Before transitioning into robotics, I spent over 7 years architecting enterprise
 
 ### Currently Tinkering With
 
-<a href="Carla-Imitation-Learning">
-  <img src="https://github.com/K-batonisashvili/Machine-Learning-Carla-Implementations/blob/main/Imitation-Learning-And-DAGGER/carla.gif" width="500" align="right" alt="Carla Imitation Learning GIF">
-</a> 
-
 * **Imitation Learning in CARLA:** Training autonomous vehicle models to navigate simulated and physical urban environments using computer vision and machine learning frameworks. 
 
+<a href="Carla-Imitation-Learning">
+  <img src="https://github.com/K-batonisashvili/Machine-Learning-Carla-Implementations/blob/main/Imitation-Learning-And-DAGGER/carla.gif" width="500" align="left" alt="Carla Imitation Learning GIF">
+</a> 
+
 
 <a href="Carla-Imitation-Learning">
-  <img src="https://github.com/K-batonisashvili/Machine-Learning-Imitation-Learning-Models/blob/main/overview.jpg" alt="Carla Imitation Learning GIF">
+  <img src="https://github.com/K-batonisashvili/Machine-Learning-Imitation-Learning-Models/blob/main/overview.jpg" width="500" align="right" alt="Carla Imitation Learning GIF">
 </a> 
 
 
