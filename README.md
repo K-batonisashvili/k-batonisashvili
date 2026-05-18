@@ -33,7 +33,7 @@ Before transitioning into robotics, I spent over 7 years architecting enterprise
     <td width="60%" valign="top">
       <h3><a href="https://github.com/K-batonisashvili/ESP32-IoT-Smart-Matrix">ESP32 IoT Smart Matrix</a></h3>
       <p>An embedded hardware project integrating an ESP32 microcontroller with a custom LED matrix to display real-time data, showcasing hardware-software integration.</p>
-      <p><b>Tech stack:</b> C++, YAML, Microcontrollers, Embedded Systems, IoT.</p>
+      <p><b>Tech stack:</b> C++, YAML, API, REST, Microcontrollers, Embedded Systems, IoT.</p>
     </td>
   </tr>
   <tr>
@@ -45,7 +45,7 @@ Before transitioning into robotics, I spent over 7 years architecting enterprise
     <td width="60%" valign="top">
       <h3><a href="https://github.com/K-batonisashvili/Enterprise-IT-Automation-Scripting">Zero-Touch Enterprise Automation Toolkit</a></h3>
       <p>A suite of production-ready PowerShell scripts implemented to completely overhaul Microsoft AutoPilot profiles and provide end-user self-service management tools.</p>
-      <p><b>Tech stack:</b> PowerShell, Microsoft Graph API, Azure/Entra ID, Automation.</p>
+      <p><b>Tech stack:</b> PowerShell, Microsoft Graph, API, REST, Azure/Entra ID, Automation.</p>
     </td>
   </tr>
 </table>
